@@ -173,12 +173,12 @@ export class RotateForever extends Component {
 - 再额外添加更多的背景和前景节点,让场景范围更大. <br>
   ![alt text](image-18.png)
 
-## 5. 运行与效果预览
+#### 运行与效果预览
 
 - 点击运行,可以看到生动的光照场景.<br>
   ![alt text](tutorialresult1.gif) <br>
 
-## 6. 更多光源效果和说明
+#### 更多光源效果和说明
 
 - 场景中的贴图资源打包使用的工具: [TexturePacker](https://www.codeandweb.com/texturepacker)
 - 场景中的所有法线贴图制作使用的工具: [SpriteIlluminator](https://www.codeandweb.com/spriteilluminator)

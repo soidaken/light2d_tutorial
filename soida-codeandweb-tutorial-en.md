@@ -176,12 +176,12 @@ export class RotateForever extends Component {
 - Add more background and foreground nodes to expand the scene.<br>
   ![alt text](image-18.png)
 
-## 5. Run and Preview the Effect
+#### Run and Preview the Effect
 
 - Click run to see the vivid lighting scene.<br>
   ![alt text](tutorialresult1.gif) <br>
 
-## 6. More Lighting Effects and Notes
+#### More Lighting Effects and Notes
 
 - The tool used for packing texture assets in the scene: [TexturePacker](https://www.codeandweb.com/texturepacker)
 - The tool used for creating all normal maps in the scene: [SpriteIlluminator](https://www.codeandweb.com/spriteilluminator)
